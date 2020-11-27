@@ -1,0 +1,6 @@
+C:\devspace\코테\IceCreamPalor\bin\Debug\IceCreamPalor.exe
+C:\devspace\코테\IceCreamPalor\bin\Debug\IceCreamPalor.pdb
+C:\devspace\코테\IceCreamPalor\obj\Debug\IceCreamPalor.csprojAssemblyReference.cache
+C:\devspace\코테\IceCreamPalor\obj\Debug\IceCreamPalor.csproj.CoreCompileInputs.cache
+C:\devspace\코테\IceCreamPalor\obj\Debug\IceCreamPalor.exe
+C:\devspace\코테\IceCreamPalor\obj\Debug\IceCreamPalor.pdb

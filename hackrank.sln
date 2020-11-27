@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sherlockAndAnagrams", "sher
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialStringAgain", "SpecialStringAgain\SpecialStringAgain.csproj", "{7301C25D-4D16-46AA-A3FB-B76257583EC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamPalor", "IceCreamPalor\IceCreamPalor.csproj", "{09EEE7EE-D70D-40A1-8792-4D3B047693DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7301C25D-4D16-46AA-A3FB-B76257583EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7301C25D-4D16-46AA-A3FB-B76257583EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7301C25D-4D16-46AA-A3FB-B76257583EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EEE7EE-D70D-40A1-8792-4D3B047693DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EEE7EE-D70D-40A1-8792-4D3B047693DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EEE7EE-D70D-40A1-8792-4D3B047693DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EEE7EE-D70D-40A1-8792-4D3B047693DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

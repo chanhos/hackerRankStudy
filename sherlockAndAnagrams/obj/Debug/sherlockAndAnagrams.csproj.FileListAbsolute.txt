@@ -1,0 +1,6 @@
+C:\devspace\코테\ImplC#\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\devspace\코테\ImplC#\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\devspace\코테\ImplC#\ConsoleApp2\obj\Debug\sherlockAndAnagrams.csprojAssemblyReference.cache
+C:\devspace\코테\ImplC#\ConsoleApp2\obj\Debug\sherlockAndAnagrams.csproj.CoreCompileInputs.cache
+C:\devspace\코테\ImplC#\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\devspace\코테\ImplC#\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialStringAgain", "Speci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceCreamPalor", "IceCreamPalor\IceCreamPalor.csproj", "{09EEE7EE-D70D-40A1-8792-4D3B047693DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxArraySum", "MaxArraySum\MaxArraySum.csproj", "{82CC41D2-6225-4F35-8844-C5F90F6F72FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{09EEE7EE-D70D-40A1-8792-4D3B047693DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{09EEE7EE-D70D-40A1-8792-4D3B047693DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{09EEE7EE-D70D-40A1-8792-4D3B047693DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82CC41D2-6225-4F35-8844-C5F90F6F72FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82CC41D2-6225-4F35-8844-C5F90F6F72FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82CC41D2-6225-4F35-8844-C5F90F6F72FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82CC41D2-6225-4F35-8844-C5F90F6F72FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

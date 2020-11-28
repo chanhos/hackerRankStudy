@@ -1,0 +1,6 @@
+C:\Devspace\코테\C#Imple\hackerRankStudy\MakingAnagram\bin\Debug\MakingAnagram.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\MakingAnagram\bin\Debug\MakingAnagram.pdb
+C:\Devspace\코테\C#Imple\hackerRankStudy\MakingAnagram\obj\Debug\MakingAnagram.csprojAssemblyReference.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\MakingAnagram\obj\Debug\MakingAnagram.csproj.CoreCompileInputs.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\MakingAnagram\obj\Debug\MakingAnagram.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\MakingAnagram\obj\Debug\MakingAnagram.pdb

@@ -1,0 +1,6 @@
+C:\Devspace\코테\C#Imple\hackerRankStudy\leftArr\bin\Debug\leftArr.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\leftArr\bin\Debug\leftArr.pdb
+C:\Devspace\코테\C#Imple\hackerRankStudy\leftArr\obj\Debug\leftArr.csprojAssemblyReference.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\leftArr\obj\Debug\leftArr.csproj.CoreCompileInputs.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\leftArr\obj\Debug\leftArr.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\leftArr\obj\Debug\leftArr.pdb

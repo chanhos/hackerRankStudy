@@ -1,0 +1,6 @@
+C:\Devspace\코테\C#Imple\hackerRankStudy\Pairs\bin\Debug\Pairs.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\Pairs\bin\Debug\Pairs.pdb
+C:\Devspace\코테\C#Imple\hackerRankStudy\Pairs\obj\Debug\Pairs.csprojAssemblyReference.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\Pairs\obj\Debug\Pairs.csproj.CoreCompileInputs.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\Pairs\obj\Debug\Pairs.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\Pairs\obj\Debug\Pairs.pdb

@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "leftArr", "leftArr\leftArr.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MakingAnagram", "MakingAnagram\MakingAnagram.csproj", "{8B368A46-82B2-455E-89AE-45A50D16704B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pairs", "Pairs\Pairs.csproj", "{794FD3CE-2A0B-4DDF-BA55-7F24E8385981}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TripleSum", "TripleSum\TripleSum.csproj", "{CFE2B027-BB01-47CB-8317-91F0BA9D4E99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{8B368A46-82B2-455E-89AE-45A50D16704B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B368A46-82B2-455E-89AE-45A50D16704B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B368A46-82B2-455E-89AE-45A50D16704B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{794FD3CE-2A0B-4DDF-BA55-7F24E8385981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794FD3CE-2A0B-4DDF-BA55-7F24E8385981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794FD3CE-2A0B-4DDF-BA55-7F24E8385981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794FD3CE-2A0B-4DDF-BA55-7F24E8385981}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFE2B027-BB01-47CB-8317-91F0BA9D4E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFE2B027-BB01-47CB-8317-91F0BA9D4E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFE2B027-BB01-47CB-8317-91F0BA9D4E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFE2B027-BB01-47CB-8317-91F0BA9D4E99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

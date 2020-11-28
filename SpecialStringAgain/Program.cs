@@ -11,7 +11,7 @@ namespace SpecialStringAgain
         {
         }
 
-
+        /*
         static long substrCount(int n, string s)
         {
             
@@ -34,5 +34,6 @@ namespace SpecialStringAgain
 
 
         }
+        */
     }
 }

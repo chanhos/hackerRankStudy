@@ -1,0 +1,6 @@
+C:\Devspace\코테\C#Imple\hackerRankStudy\TripleSum\bin\Debug\TripleSum.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\TripleSum\bin\Debug\TripleSum.pdb
+C:\Devspace\코테\C#Imple\hackerRankStudy\TripleSum\obj\Debug\TripleSum.csprojAssemblyReference.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\TripleSum\obj\Debug\TripleSum.csproj.CoreCompileInputs.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\TripleSum\obj\Debug\TripleSum.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\TripleSum\obj\Debug\TripleSum.pdb

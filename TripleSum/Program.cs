@@ -107,7 +107,6 @@ namespace TripleSum
                 //find
                 return mid + 1 ; 
             }
-
         }
 
         static void Main(string[] args)

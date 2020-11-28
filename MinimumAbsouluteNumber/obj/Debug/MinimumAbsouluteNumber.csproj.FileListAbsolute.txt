@@ -1,0 +1,6 @@
+C:\Devspace\코테\C#Imple\hackerRankStudy\MinimumAbsouluteNumber\bin\Debug\MinimumAbsouluteNumber.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\MinimumAbsouluteNumber\bin\Debug\MinimumAbsouluteNumber.pdb
+C:\Devspace\코테\C#Imple\hackerRankStudy\MinimumAbsouluteNumber\obj\Debug\MinimumAbsouluteNumber.csprojAssemblyReference.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\MinimumAbsouluteNumber\obj\Debug\MinimumAbsouluteNumber.csproj.CoreCompileInputs.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\MinimumAbsouluteNumber\obj\Debug\MinimumAbsouluteNumber.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\MinimumAbsouluteNumber\obj\Debug\MinimumAbsouluteNumber.pdb

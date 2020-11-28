@@ -1,0 +1,6 @@
+C:\Devspace\코테\C#Imple\hackerRankStudy\BalancedBracket\bin\Debug\BalancedBracket.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\BalancedBracket\bin\Debug\BalancedBracket.pdb
+C:\Devspace\코테\C#Imple\hackerRankStudy\BalancedBracket\obj\Debug\BalancedBracket.csprojAssemblyReference.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\BalancedBracket\obj\Debug\BalancedBracket.csproj.CoreCompileInputs.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\BalancedBracket\obj\Debug\BalancedBracket.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\BalancedBracket\obj\Debug\BalancedBracket.pdb

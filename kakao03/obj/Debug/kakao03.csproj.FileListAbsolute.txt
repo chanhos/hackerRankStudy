@@ -1,0 +1,6 @@
+C:\Devspace\코테\C#Imple\hackerRankStudy\kakao03\bin\Debug\kakao03.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\kakao03\bin\Debug\kakao03.pdb
+C:\Devspace\코테\C#Imple\hackerRankStudy\kakao03\obj\Debug\kakao03.csprojAssemblyReference.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\kakao03\obj\Debug\kakao03.csproj.CoreCompileInputs.cache
+C:\Devspace\코테\C#Imple\hackerRankStudy\kakao03\obj\Debug\kakao03.exe
+C:\Devspace\코테\C#Imple\hackerRankStudy\kakao03\obj\Debug\kakao03.pdb
